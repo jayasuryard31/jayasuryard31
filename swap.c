@@ -1,3 +1,5 @@
+/*swaping two intergers without using third variable*/
+
 #include <stdio.h>
 int main()
 {
