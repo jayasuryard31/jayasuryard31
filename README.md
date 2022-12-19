@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React Native, Node js, MongoDB.**
 
-- 💬 Ask me about **frontend, Java**
+- 💬 Ask me about **Frontend, Java**
 
 - 📫 How to reach me **rdjayasurya@gmail.com**
 
