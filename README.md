@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **rdjayasurya@gmail.com**
 
-- ⚡ Fun fact **I think I am Funny**
+- ⚡ Fun fact **I think i'm a Professional introvert in my own world**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
