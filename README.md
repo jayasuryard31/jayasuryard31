@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/jayasurya_rd31" target="blank"><img src="https://img.shields.io/twitter/follow/jayasurya_rd31?logo=twitter&style=for-the-badge" alt="jayasurya_rd31" /></a> </p>
 
-- 🔭 I’m currently working on **Club membership management systems**
+- 🔭 I worked on **Club membership management systems**
 
 - 🌱 I’m currently learning **React Native, Node js, MongoDB.**
 
