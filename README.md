@@ -1,4 +1,4 @@
-![MasterHead](https://drive.google.com/file/d/1T5nhxQQksQFY80akgSCphxEcj79FcyH9/view?usp=share_link)
+![MasterHead](<img align="right" alt="GIF" src = "https://github.com/jayasuryard31/jayasuryard31/MYGIF.gif" height="270" width = '400' />)
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jayasuryard31" alt="jayasuryard31" /></a> </p>
 <h1 align="center">Hi 👋, I'm Jayasurya R D</h1>
 <h3 align="center">A passionate Fullstack developer from India</h3>
