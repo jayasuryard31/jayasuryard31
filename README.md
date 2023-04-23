@@ -1,4 +1,4 @@
-![MasterHead](<img align="right" alt="GIF" src = "https://github.com/jayasuryard31/jayasuryard31/MYGIF.gif" height="270" width = '400' />)
+![MasterHead](https://github.com/jayasuryard31/jayasuryard31/blob/main/MYGIF.gif)
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jayasuryard31" alt="jayasuryard31" /></a> </p>
 <h1 align="center">Hi 👋, I'm Jayasurya R D</h1>
 <h3 align="center">A passionate Fullstack developer from India</h3>
