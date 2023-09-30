@@ -2,7 +2,7 @@
 [![An image of @jayasuryard31's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jayasuryard31)](https://holopin.io/@jayasuryard31)
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jayasuryard31" alt="jayasuryard31" /></a> </p>
 <h1 align="center">Hi 👋, I'm Jayasurya R D</h1>
-<h3 align="center">A passionate Fullstack developer from India</h3>
+<h3 align="center">A passionate Programmer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayasuryard31&label=Profile%20views&color=0e75b6&style=flat" alt="jayasuryard31" /> </p>
 
