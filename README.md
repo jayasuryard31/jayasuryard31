@@ -10,13 +10,13 @@
 
 <p align="left"> <a href="https://twitter.com/jayasurya_rd31" target="blank"><img src="https://img.shields.io/twitter/follow/jayasurya_rd31?logo=twitter&style=for-the-badge" alt="jayasurya_rd31" /></a> </p>
 
-- 🔭 I recently worked on [Club membership management systems](https://github.com/jayasuryard31/College-club-membership-management-system)
+- 🔭 I recently worked on [Ayurscan](https://github.com/jayasuryard31/AyurScan)
 
-- 🌱 I’m currently learning **Java Full Stack**
+- 🌱 I’m currently learning **Ai and Model Building**
 
 - 👨‍💻 All of my projects are available at [https://jayasuryard31.github.io/Portfolio/](https://jayasuryard31.github.io/Portfolio/)
 
-- 💬 Ask me about **frontend, Java**
+- 💬 Ask me about **Backend, Software Cycle, Deployment, Sockets, WebRTC and More...**
 
 - 📫 How to reach me **rdjayasurya@gmail.com**
 
